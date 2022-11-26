@@ -1,3 +1,18 @@
 h1{
 	color: blue;
 }
+
+#container{
+	margin: 0 auto;
+	border: 1px black solid;
+	width: 50%;
+}
+
+img{
+	float:left;
+	padding-right: 10px;
+}
+
+table{
+	width: 80%;
+}
